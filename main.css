@@ -1,3 +1,7 @@
+.cont50 {
+    text-align: right;
+    margin-right: 10%;
+}
 .holdercont90{
     max-width:1000px;
     width: 100%;
@@ -48,7 +52,7 @@
 
 .logostrelica_circle{
     position: absolute;
-    border-bottom: 1px solid #f6b241;
+    border-bottom: 1px solid #5d5d5d;
     height: 8px;
 }
 .logostrelica100_circle {
@@ -132,7 +136,7 @@
     left:87%;
 }
 .circlestrelica{
-    width:40px;
+    width:28px;
     top:-13px;
 
 }
@@ -148,14 +152,8 @@
 }
 
 .circle > a ~ .box { display: none !important; }
-.circle img{
-    height: auto;
-    width: 130px;
-}
+
 .circle p{
-    width:76%;
-    margin-left:auto;
-    margin-right:auto;
     text-decoration:none;
     color:white;
 }
@@ -163,12 +161,11 @@
     display:none;
 }
 .box .whitebtn { display: inline-block; margin: 25px 0; }
-#box3 .cont50 img,
-#box5 .cont50 img { max-width: 527px; width: 100%; }
+
 .cont40{
     width:40%;
     float: left;
-    /*display:inline-block;*/
+    padding:50px;
 }
 .actcircle > a > p{
     color:#fcb83e !important;
